@@ -26,5 +26,5 @@ This project implements a Tic Tac Toe game with integrated reinforcement learnin
 
 ## Project Links
 
-- Tic Tac Toe Game: [Link1]
+- Tic Tac Toe Game: https://github.com/SohelPratap/Project-TicTacToe/blob/main/t1.py
 - Reinforcement Learning Integration: [Link2]
